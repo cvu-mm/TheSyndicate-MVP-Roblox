@@ -1,19 +1,19 @@
 # TheSyndicate-MVP-Roblox
 MVP de un RPG de Facciones en Roblox (Lua) diseñado para demostrar los principios de Modularidad, Persistencia de Datos, Lógica Condicional y Comunicación Cliente-Servidor. Este proyecto es una experiencia educativa y autoexplicativa sobre la arquitectura técnica de un videojuego.
-# 🔪 THE SYNDICATE: RISE TO POWER - DEMOSTRACIÓN DE ARQUITECTURA TÉCNICA
+#  THE SYNDICATE: RISE TO POWER - DEMOSTRACIÓN DE ARQUITECTURA TÉCNICA
 
-## 🎯 Objetivo del Proyecto
+##  Objetivo del Proyecto
 
 Este proyecto fue desarrollado en Roblox Studio (Lua) con el fin de crear una experiencia inmersiva y autoexplicativa que demuestre la aplicación práctica de los conceptos fundamentales de programación vistos en clase: **Modularidad**, **Persistencia de Datos**, **Lógica Condicional (If/Then)** y **Comunicación Cliente-Servidor**.
 
 El mundo virtual simula el Producto Mínimo Viable (MVP) de un RPG de facciones criminales, donde el progreso del jugador está directamente ligado al cumplimiento de estos principios técnicos.
 
-## 🔗 Acceso al Mundo Virtual
+##  Acceso al Mundo Virtual
 
 * **Plataforma:** Roblox Studio (Lenguaje de Programación: Lua)
-* **Enlace de Juego:** **[INSERTAR AQUÍ EL ENLACE DE TU JUEGO PUBLICADO]**
+* **Enlace de Juego: https://www.roblox.com/es/games/73959544913988/cvu-12vals-Place-11152025-3
 
-## 💡 Guía de Pruebas y Conceptos
+##  Guía de Pruebas y Conceptos
 
 Para verificar la funcionalidad de todos los conceptos técnicos, el usuario debe seguir el siguiente ciclo de jugabilidad:
 
